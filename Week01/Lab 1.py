@@ -1,5 +1,5 @@
 # Sample Coding Questions 01 Week 01
-# [Your First Name] [Your Last Name]
+# [Navjot Kaur] [Mathoda]
 
 # Question 2: Defining an array (list)
 my_array = [1, 4, 7, 9]
