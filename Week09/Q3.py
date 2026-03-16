@@ -1,6 +1,6 @@
 # ============================================================
 #  WEEK 09 LAB — Q3: UNIT TESTING
-#  COMP2152 — Saurab Bhattarai Khatri
+#  COMP2152 — Navjot Kaur Mathoda
 # ============================================================
 
 import unittest
